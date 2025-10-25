@@ -19,12 +19,12 @@ No heavy dependencies. Drop the scripts you need into your project and get going
 3. Customize as you like.
 
 > [!IMPORTANT]
-> **License**  [SpawnCampGames Free Use License]  
+> **License** → [SpawnCampGames Free Use License]  
 > - Free to use, modify, and include in your own projects for **educational, personal, or commercial purposes**.  
 > - **Attribution required** — must be **prominently displayed in Credits** if available, or otherwise in a clearly visible location.  
 > - **Redistribution only with explicit permission** from SpawnCampGames or any of its Divisions.
 > - No warranties; use at your own risk.
 > 
-> For full details, see: [SpawnCampGames Free Use License](./LICENSE.md) 📄
+> For full details, see: [License](./LICENSE.md) 📄
 
 🕹️ SpawnCampGames — Small tools, big wins.
