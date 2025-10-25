@@ -24,6 +24,6 @@ No heavy dependencies. Drop the scripts you need into your project and get going
 > **Attribution required** — must be **prominently displayed in Credits** if available, or otherwise in a clearly visible location.
 > **Redistribution only with explicit permission** from SpawnCampGames or any of its Divisions. No warranties; use at your own risk.
 
-For full details, see [LICENSE](./LICENSE)
+For full details, see SpawnCampGames Free Use [LICENSE](./LICENSE.md)
 
 🕹️ SpawnCampGames — Small tools, big wins.
